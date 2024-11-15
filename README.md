@@ -17,6 +17,12 @@ import { FilesDB } from '@kieranwv/utils'
 const db = new FilesDB()
 ```
 
+## Utils
+
+| name                             | description                            |
+| -------------------------------- | -------------------------------------- |
+| [`FilesDB`](./src/files-db.ts) | The CRUD class for indexDB in browser. |
+
 ## License
 
 [MIT License](./LICENSE) © 2024 [Kieran Wang](https://github.com/kieranwv/)
