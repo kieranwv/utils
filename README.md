@@ -12,9 +12,9 @@ pnpm i @kieranwv/utils -D
 ```
 
 ```js
-import { FilesDB } from '@kieranwv/utils'
+import { IndexedDB } from '@kieranwv/utils'
 
-const db = new FilesDB()
+const db = new IndexedDB()
 ```
 
 ## Utils
