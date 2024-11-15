@@ -8,7 +8,7 @@ Collection of common JavaScript / TypeScript utils by @kieranwv.
 ## Usage
 
 ```bash
-pnpm i @kieranwv/utils -D
+npm install @kieranwv/utils -D
 ```
 
 ```js
