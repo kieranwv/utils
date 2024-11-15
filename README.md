@@ -21,7 +21,7 @@ const db = new FilesDB()
 
 | name                             | description                            |
 | -------------------------------- | -------------------------------------- |
-| [`FilesDB`](./src/files-db.ts) | The CRUD class for indexDB in browser. |
+| [`IndexedDB`](./src/indexed-db.ts) | The CRUD class for indexedDB in browser. |
 
 ## License
 
