@@ -1,6 +1,7 @@
 # @kieranwv/utils
 
-[![Version](https://img.shields.io/npm/v/@kieranwv/utils?style=flat&label=%20&color=09090b)](https://www.npmjs.com/package/@kieranwv/utils)
+[![Version](https://img.shields.io/github/v/release/kieranwv/utils?style=flat&label=released&color=%2309090b)](https://github.com/kieranwv/utils/releases)
+[![Version](https://img.shields.io/npm/v/@kieranwv/utils?style=flat&label=npm&color=09090b)](https://www.npmjs.com/package/@kieranwv/utils)
 
 Collection of common JavaScript / TypeScript utils by @kieranwv.
 
