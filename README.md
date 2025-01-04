@@ -1,7 +1,8 @@
 # @kieranwv/utils
 
-[![Version](https://img.shields.io/github/v/release/kieranwv/utils?style=flat&label=released&color=%2309090b)](https://github.com/kieranwv/utils/releases)
-[![Version](https://img.shields.io/npm/v/@kieranwv/utils?style=flat&label=npm&color=09090b)](https://www.npmjs.com/package/@kieranwv/utils)
+[![GitHub Release Version](https://img.shields.io/github/v/release/kieranwv/utils?label=Release&color=%42b883)](https://github.com/kieranwv/utils/releases)
+[![NPM Version](https://img.shields.io/npm/v/starter-lib-vue3?style=flat&label=npm&color=%42b883)](https://www.npmjs.com/package/starter-lib-vue3)
+[![Build Status](https://github.com/kieranwv/utils/actions/workflows/ci.yml/badge.svg?branch=main&color=%42b883)](https://github.com/kieranwv/utils/actions/workflows/ci.yml)
 
 Collection of common JavaScript / TypeScript utils by @kieranwv.
 
@@ -19,9 +20,10 @@ const db = new IndexedDB()
 
 ## Utils
 
-| name                             | description                            |
-| -------------------------------- | -------------------------------------- |
+| name                               | description                              |
+| ---------------------------------- | ---------------------------------------- |
 | [`IndexedDB`](./src/indexed-db.ts) | The CRUD class for indexedDB in browser. |
+| [`toLowerCase`](./src/format.ts)   | Converts string characters to lowercase. |
 
 ## License
 
