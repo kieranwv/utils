@@ -1,7 +1,7 @@
 # @kieranwv/utils
 
 [![GitHub Release Version](https://img.shields.io/github/v/release/kieranwv/utils?label=Release&color=%42b883)](https://github.com/kieranwv/utils/releases)
-[![NPM Version](https://img.shields.io/npm/v/starter-lib-vue3?style=flat&label=npm&color=%42b883)](https://www.npmjs.com/package/starter-lib-vue3)
+[![NPM Version](https://img.shields.io/npm/v/@kieranwv/utils?style=flat&label=npm&color=%42b883)](https://www.npmjs.com/package/@kieranwv/utils)
 [![Build Status](https://github.com/kieranwv/utils/actions/workflows/ci.yml/badge.svg?branch=main&color=%42b883)](https://github.com/kieranwv/utils/actions/workflows/ci.yml)
 
 Collection of common JavaScript / TypeScript utils by @kieranwv.
