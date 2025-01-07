@@ -1,7 +1,7 @@
 {
   "name": "@kieranwv/utils",
   "type": "module",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "packageManager": "pnpm@9.10.0",
   "description": "Collection of common JavaScript / TypeScript utils by @kieranwv.",
   "author": "Kieran Wang <kieranwme@gmail.com> (https://github.com/kieranwv/)",
